@@ -1,0 +1,9 @@
+p{
+    text-align: center;
+}
+.box{
+    width: 800px;
+    height: 600px;
+    background-color: chartreuse;
+    margin: auto;
+}
